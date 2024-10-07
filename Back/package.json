@@ -1,0 +1,20 @@
+{
+  "name": "hacakaton_ibero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "AstroCoders_IPN",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7",
+    "start": "^5.1.0",
+    "xlsx": "^0.18.5"
+  }
+}
